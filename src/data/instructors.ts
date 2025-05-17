@@ -2,10 +2,10 @@ import { Instructor } from '../types';
 
 export const instructors: Instructor[] = [
   {
-    id: "john-smith",
-    name: "John Smith",
+    id: "sir-ammar",
+    name: "Ammar Jahangir",
     title: "Senior Web Developer",
-    avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=300",
+    avatar: "image.jpg",
     bio: "John has over 10 years of experience in web development and has worked with companies like Google and Facebook. He specializes in front-end development and is passionate about teaching the next generation of developers. John has a Bachelor's degree in Computer Science and multiple certifications in web technologies.",
     rating: 4.9,
     reviewCount: 3200,
